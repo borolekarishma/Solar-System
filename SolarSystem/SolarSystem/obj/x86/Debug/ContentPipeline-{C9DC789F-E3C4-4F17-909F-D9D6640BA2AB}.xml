@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>mercury.jpg</Source>
+      <Name>mercury</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kari\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\mercury.xnb</Output>
+      <Time>2014-09-07T19:44:39.3318112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stars.jpg</Source>
+      <Name>stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kari\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\stars.xnb</Output>
+      <Time>2014-09-07T20:26:43.7551999-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sun1.jpg</Source>
+      <Name>sun1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kari\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\sun1.xnb</Output>
+      <Time>2014-09-07T18:29:03.3783695-04:00</Time>
+    </Item>
+    <Item>
+      <Source>venus.jpg</Source>
+      <Name>venus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\venus.xnb</Output>
+      <Time>2014-09-07T19:44:39.3378115-04:00</Time>
+    </Item>
+    <Item>
+      <Source>earth.jpg</Source>
+      <Name>earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\earth.xnb</Output>
+      <Time>2014-09-07T19:44:39.2748079-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mars.jpg</Source>
+      <Name>Mars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\Mars.xnb</Output>
+      <Time>2014-09-07T19:44:39.3088099-04:00</Time>
+    </Item>
+    <Item>
+      <Source>jupiter.jpg</Source>
+      <Name>jupiter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\jupiter.xnb</Output>
+      <Time>2014-09-07T19:23:52.38749-04:00</Time>
+    </Item>
+    <Item>
+      <Source>saturn.png</Source>
+      <Name>saturn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\saturn.xnb</Output>
+      <Time>2014-09-07T20:10:23.3951266-04:00</Time>
+    </Item>
+    <Item>
+      <Source>uranus.jpg</Source>
+      <Name>uranus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\uranus.xnb</Output>
+      <Time>2014-09-07T20:08:28.3245449-04:00</Time>
+    </Item>
+    <Item>
+      <Source>neptune.jpg</Source>
+      <Name>neptune</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\neptune.xnb</Output>
+      <Time>2014-09-07T20:14:06.1588679-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pluto.jpg</Source>
+      <Name>pluto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\pluto.xnb</Output>
+      <Time>2014-09-07T20:17:42.1042193-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C9DC789F-E3C4-4F17-909F-D9D6640BA2AB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystemContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\KARI\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\SolarSystem\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-06T04:50:54.1452204-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
